@@ -1,1 +1,4 @@
-Adding some text to this file. Very important!
+Adding some text to this file.
+
+Modifying to test the the git config --global core.editor
+So that I can see if I'm able to commit by just typing git commit
